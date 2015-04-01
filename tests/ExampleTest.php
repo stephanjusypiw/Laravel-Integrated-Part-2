@@ -18,7 +18,7 @@ class ExampleTest extends TestCase {
        // dd($post);
 
         $post = ['title' => 'Some Title', 'body' => 'Some body'];
-        
+
 //        $this->visit('posts/create')
 //             ->type($post['title'], 'title')
 //             ->type($post['body'] , 'body')
